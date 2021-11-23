@@ -11,6 +11,6 @@ class ChipsListView(generics.ListCreateAPIView):
 
 
 class ChipsDetailView(generics.RetrieveUpdateDestroyAPIView):
-    permission_classes = (IsUserOrReadOnly,)
+    permission_classes = (IsUserOrReadOnly, IsAuthenticatedOrReadOnly)
     queryset = Chips.objects.all()
     serializer_class = ChipsSerializer
