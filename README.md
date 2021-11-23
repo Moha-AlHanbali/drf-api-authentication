@@ -10,7 +10,7 @@
 
 ## Change log
 
-- Django REST Framework API Authentication v1 "feat: completed class32" 23-11-2021
+- Django REST Framework API Authentication v1 "feat: completed class33" 23-11-2021
 
 ## PR
 
