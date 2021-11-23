@@ -14,4 +14,4 @@
 
 ## PR
 
-- [PR1](https://github.com/Moha-AlHanbali/drf-api-authentication/pull/1)
+- [PR1](https://github.com/Moha-AlHanbali/drf-auth/pull/1)
