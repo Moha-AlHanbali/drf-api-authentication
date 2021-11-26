@@ -10,8 +10,8 @@
 
 ## Change log
 
-- Django REST Framework API Authentication v1 "feat: completed class32" 23-11-2021
+- Django REST Framework API Authentication v1 "feat: completed class33" 23-11-2021
 
 ## PR
 
-- [PR1](https://github.com/Moha-AlHanbali/drf-api-authentication/pull/1)
+- [PR1](https://github.com/Moha-AlHanbali/drf-auth/pull/1)
